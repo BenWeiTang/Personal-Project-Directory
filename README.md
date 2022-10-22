@@ -1,5 +1,9 @@
 # Personal Project Directory
 Listed below are links to individual project repos and code snippets.
+
+## [(WIP) Real Time Music Visualization](https://github.com/BenWeiTang/Real-Time-Music-Visualization)
+This is a rendition on my [Music Visualization](https://github.com/BenWeiTang/Music-Visualization) project, using C++ and SFML in an attempt to achieve real time pitch detection and visualization of an audio file.
+
 ## [(Internship) Galactic Gauntlet](https://github.com/BenWeiTang/Galactic-Gauntlet-Code-Snippets)
 This repo features several code snippets that highlight the work I did on the game Galactic Gauntlet during my CO-OP at Quadratron Games, Philadelphia, PA. Highlight features include [Capture Zone](https://github.com/BenWeiTang/Galactic-Gauntlet-Code-Snippets/tree/main/CaptureZone) and [Procedural Level Generation](https://github.com/BenWeiTang/Galactic-Gauntlet-Code-Snippets/tree/main/ProceduralLevel).
 
