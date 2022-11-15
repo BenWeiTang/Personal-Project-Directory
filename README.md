@@ -16,8 +16,8 @@ Snatcher is a 2.5D roguelite game where you play as Snatcher, a frog-like, tiny 
 ## [Neural Network | C](https://github.com/BenWeiTang/Neural-Network)
 This project features a configurable neural network written in C from scratch.
 
-## [Music Visualization | Processing, SciPy](https://github.com/BenWeiTang/Music-Visualization)
+## [Music Visualization | Processing & SciPy](https://github.com/BenWeiTang/Music-Visualization)
 In this project, I converted music (audio files) into images by combining theories, such as color theory and the circle of fifths, and with technologies such as SciPy and Processing.
 
-## [Booking Drexel | JavaScript, Flask, SQLite](https://github.com/BenWeiTang/BookingDrexel)
+## [Booking Drexel | JavaScript & Flask & SQLite](https://github.com/BenWeiTang/BookingDrexel)
 This joint project features a fake hotel website. I was responsible for the back-end tech stack, including Flask and SQLite, as well as a portion of the front-end, using JavaScript. The domain of the website has expired, but the code remains accessible in this repo.
