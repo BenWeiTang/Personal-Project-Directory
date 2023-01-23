@@ -1,7 +1,7 @@
 # Personal Project Directory
 Listed below are links to individual project repos and code snippets.
 
-## [(WIP) Real Time Music Visualization | C++ & SFML](https://github.com/BenWeiTang/Real-Time-Music-Visualization)
+## [Real Time Music Visualization | C++ & SFML](https://github.com/BenWeiTang/Real-Time-Music-Visualization)
 This is a rendition on my [Music Visualization](https://github.com/BenWeiTang/Music-Visualization) project, using C++ and SFML in an attempt to achieve real time pitch detection and visualization of an audio file.
 
 ## [(Internship) Galactic Gauntlet | Unity Engine & C#](https://github.com/BenWeiTang/Galactic-Gauntlet-Code-Snippets)
