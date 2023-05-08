@@ -1,7 +1,7 @@
 # Personal Project Directory
 Listed below are links to individual project repos and code snippets.
 
-## [WIP OpenGL Practice](https://github.com/BenWeiTang/OpenGL-Practice)
+## [WIP OpenGL Practice | C++ & OpenGL](https://github.com/BenWeiTang/OpenGL-Practice)
 Sandbox environment that I'm currently using to learn OpenGL.
 
 ## [Real Time Music Visualization | C++ & SFML](https://github.com/BenWeiTang/Real-Time-Music-Visualization)
