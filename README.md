@@ -1,7 +1,7 @@
 # Personal Project Directory
 Listed below are links to individual project repos and code snippets.
 
-## [WIP The Odessa Tree | Unreal Engine & C++](https://github.com/BenWeiTang/OdessaTree)
+## [The Odessa Tree | Unreal Engine & C++](https://github.com/BenWeiTang/OdessaTree)
 Code samples from the game The Odessa Tree.
 
 ## [WIP OpenGL Practice | C++ & OpenGL](https://github.com/BenWeiTang/OpenGL-Practice)
